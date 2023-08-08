@@ -25,7 +25,7 @@
   "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com)",
   "license": "MIT",
   "dependencies": {
-    "cosmiconfig": "^7.0.0",
+    "cosmiconfig": "https://github.com/nikolaigeorgie/cosmiconfig.git",
     "resolve": "^1.19.0"
   },
   "devDependencies": {
